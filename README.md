@@ -91,7 +91,7 @@ I'm a passionate **Software Engineer** and **Web Developer** with expertise in b
 
 I'm always interested in connecting with fellow developers and discussing exciting projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rajneshchoudhary7](https://www.linkedin.com/in/mr-rajnesh-choudhary-13a4a030b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mr-rajnesh-choudhary-13a4a030b/]
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajneshChoudhary7)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahirwarrajnesh493@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RajneshXt)
